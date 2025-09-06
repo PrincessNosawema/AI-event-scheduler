@@ -1,4 +1,4 @@
-# AI Event Scheduler & Retrieval
+# AI Event Scheduler
 
 The AI Event Scheduler is an automation workflow built with n8n that simplifies event scheduling and task management through natural language interaction. By combining Google Calendar, Google Sheets, and an AI agent powered by Google Gemini Chat Model, this project converts everyday language into structured event and task data—making scheduling seamless and intuitive.
 
@@ -42,7 +42,7 @@ The AI Event Scheduler is an automation workflow built with n8n that simplifies 
 1. **Clone the Repository**:
    
    ```bash
-   git clone https://github.com/PrincessNosawema/ai-event-scheduler-&retrieval.git
+   git clone https://github.com/PrincessNosawema/ai-event-scheduler.git
    ```
 1. **Import Workflow into n8n**
 - Open n8n and import the provided workflow file
